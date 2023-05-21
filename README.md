@@ -4,7 +4,7 @@
 <head>
 
 <body>
-  <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFqv5R-R3nBXU3lWLe_Qw6Rf9Mjg1QPG3g5p57mITLl4toxWr_cSWY4G-IomHufhiJDeXUqE4AaDwA3YE_WQukHEQGn0nz0G995SymO0JMu3-UM9oGBGFB8lTzmXaxTL_ML42uiPMYRNCktw5WO6o_l3cD9pXWE34c-zIN4qzvnOHwpYLCPDZhbA/s1035/Screenshot%202023-05-22%20033313.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="333" data-original-width="1035" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFqv5R-R3nBXU3lWLe_Qw6Rf9Mjg1QPG3g5p57mITLl4toxWr_cSWY4G-IomHufhiJDeXUqE4AaDwA3YE_WQukHEQGn0nz0G995SymO0JMu3-UM9oGBGFB8lTzmXaxTL_ML42uiPMYRNCktw5WO6o_l3cD9pXWE34c-zIN4qzvnOHwpYLCPDZhbA/s320/Screenshot%202023-05-22%20033313.png"/></a></div>
+  
   <h1>Group Extractor: Free Python Tool for Lifetime to Extract Groups from Posts or Videos</h1>
 
   <h2>Introduction</h2>
