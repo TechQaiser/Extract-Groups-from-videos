@@ -2,22 +2,6 @@
 <html>
 
 <head>
-  <style>
-    h1 {
-      font-weight: bold;
-      margin-bottom: 20px;
-    }
-
-    h2 {
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-
-    p {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
 
 <body>
   <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFqv5R-R3nBXU3lWLe_Qw6Rf9Mjg1QPG3g5p57mITLl4toxWr_cSWY4G-IomHufhiJDeXUqE4AaDwA3YE_WQukHEQGn0nz0G995SymO0JMu3-UM9oGBGFB8lTzmXaxTL_ML42uiPMYRNCktw5WO6o_l3cD9pXWE34c-zIN4qzvnOHwpYLCPDZhbA/s1035/Screenshot%202023-05-22%20033313.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="333" data-original-width="1035" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFqv5R-R3nBXU3lWLe_Qw6Rf9Mjg1QPG3g5p57mITLl4toxWr_cSWY4G-IomHufhiJDeXUqE4AaDwA3YE_WQukHEQGn0nz0G995SymO0JMu3-UM9oGBGFB8lTzmXaxTL_ML42uiPMYRNCktw5WO6o_l3cD9pXWE34c-zIN4qzvnOHwpYLCPDZhbA/s320/Screenshot%202023-05-22%20033313.png"/></a></div>
@@ -61,7 +45,7 @@
   <h2>Conclusion</h2>
   <p>The Group Extractor is a powerful, free-to-use Python tool that simplifies the  the process of extracting groups from posts or videos. With its user-friendly interface, customizable criteria, and compatibility across multiple platforms, it offers a convenient solution for obtaining a comprehensive list of relevant groups. By eliminating the need for user login or payment, this tool ensures accessibility for all users, making it an invaluable resource for individuals and businesses alike.
     
-    <h2>Download</h2>
+   <h2>Download</h2>
   <p>Click the button below to download the Group Extractor:</p>
   <a class="download-button" href="https://github.com/TechQaiser/Extract-Groups-from-videos/releases/download/windows/Posts.Share.Groups.Cracker.zip">Download Group Extractor</a>
 </p></body></html>
